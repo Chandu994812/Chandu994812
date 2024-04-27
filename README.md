@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on  on open-source projects related to web designing and AI
-- 📫 How to reach me mail(devarapallichandu994812@gmail.com)or instagram(im_c_h_a_n_d_u_404)
+- 📫 How to reach me mail(devarapallichandu994812@gmail.com)or instagram(one_in_billion_9)
 - 😄 Pronouns: hmmmm.....
 - ⚡ Fun fact: to B fr@ank i don't know who r U🫵
 
