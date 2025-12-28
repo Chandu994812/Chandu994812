@@ -1,7 +1,7 @@
 # Hi, I'm Chandu 👋
 
 - 🎓 Final-year CSE student
-- 💻 Full-Stack Developer (React, Node.js, MySQL)
+- 💻 Full-Stack Developer (React, Node.js, MySQL,MongoDB)
 - 🤖 Interested in Machine Learning & AI
 - 🚀 Building real-world projects
 
@@ -12,5 +12,5 @@
 - Tools: Git, GitHub, Postman
 
 ## Contact
-- 📧 Email: yourmail@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+- 📧 Email: devarapallichandu994812@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/d-chandu
